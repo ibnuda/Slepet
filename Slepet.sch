@@ -1486,8 +1486,6 @@ Text GLabel 10075 2000 2    50   Input ~ 0
 RR3
 Text GLabel 10075 1900 2    50   Input ~ 0
 RR4
-Text GLabel 1950 7075 3    50   Input ~ 0
-CR6
 Text GLabel 2800 7075 3    50   Input ~ 0
 CR5
 Text GLabel 3650 7075 3    50   Input ~ 0
@@ -1497,7 +1495,7 @@ CR3
 Text GLabel 5350 7075 3    50   Input ~ 0
 CR2
 Text GLabel 6200 7075 3    50   Input ~ 0
-CR1
+CL1
 Text GLabel 9575 2100 0    50   Input ~ 0
 CR4
 Text GLabel 9575 2200 0    50   Input ~ 0
@@ -1506,8 +1504,10 @@ Text GLabel 9575 2300 0    50   Input ~ 0
 CR2
 Text GLabel 9575 2000 0    50   Input ~ 0
 CR5
+Text GLabel 10075 2300 2    50   Input ~ 0
+CL1
+Text GLabel 1950 7075 3    50   Input ~ 0
+CR6
 Text GLabel 9575 1900 0    50   Input ~ 0
 CR6
-Text GLabel 10075 2300 2    50   Input ~ 0
-CR1
 $EndSCHEMATC
