@@ -19,7 +19,7 @@ U 1 1 60B8BDD8
 P 1225 1050
 F 0 "switch1" H 1225 1305 50  0000 C CNN
 F 1 "switch" H 1225 1214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 1225 1050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 1225 1050 60  0001 C CNN
 F 3 "" H 1225 1050 60  0000 C CNN
 	1    1225 1050
 	-1   0    0    1   
@@ -43,7 +43,7 @@ U 1 1 60B8E3BE
 P 1225 1725
 F 0 "switch7" H 1225 1980 50  0000 C CNN
 F 1 "switch" H 1225 1889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 1225 1725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 1225 1725 60  0001 C CNN
 F 3 "" H 1225 1725 60  0000 C CNN
 	1    1225 1725
 	-1   0    0    1   
@@ -67,7 +67,7 @@ U 1 1 60B8F9ED
 P 1225 2400
 F 0 "switch13" H 1225 2655 50  0000 C CNN
 F 1 "switch" H 1225 2564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 1225 2400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 1225 2400 60  0001 C CNN
 F 3 "" H 1225 2400 60  0000 C CNN
 	1    1225 2400
 	-1   0    0    1   
@@ -91,7 +91,7 @@ U 1 1 60B99DAE
 P 2075 1050
 F 0 "switch2" H 2075 1305 50  0000 C CNN
 F 1 "switch" H 2075 1214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2075 1050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2075 1050 60  0001 C CNN
 F 3 "" H 2075 1050 60  0000 C CNN
 	1    2075 1050
 	-1   0    0    1   
@@ -115,7 +115,7 @@ U 1 1 60B99E42
 P 2075 1725
 F 0 "switch8" H 2075 1980 50  0000 C CNN
 F 1 "switch" H 2075 1889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2075 1725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2075 1725 60  0001 C CNN
 F 3 "" H 2075 1725 60  0000 C CNN
 	1    2075 1725
 	-1   0    0    1   
@@ -139,7 +139,7 @@ U 1 1 60B99E59
 P 2075 2400
 F 0 "switch14" H 2075 2655 50  0000 C CNN
 F 1 "switch" H 2075 2564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2075 2400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2075 2400 60  0001 C CNN
 F 3 "" H 2075 2400 60  0000 C CNN
 	1    2075 2400
 	-1   0    0    1   
@@ -163,7 +163,7 @@ U 1 1 60B99E6F
 P 2075 3075
 F 0 "switch19" H 2075 3330 50  0000 C CNN
 F 1 "switch" H 2075 3239 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2075 3075 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2075 3075 60  0001 C CNN
 F 3 "" H 2075 3075 60  0000 C CNN
 	1    2075 3075
 	-1   0    0    1   
@@ -193,7 +193,7 @@ U 1 1 60BA2784
 P 2925 1050
 F 0 "switch3" H 2925 1305 50  0000 C CNN
 F 1 "switch" H 2925 1214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2925 1050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2925 1050 60  0001 C CNN
 F 3 "" H 2925 1050 60  0000 C CNN
 	1    2925 1050
 	-1   0    0    1   
@@ -217,7 +217,7 @@ U 1 1 60BA28C8
 P 2925 1725
 F 0 "switch9" H 2925 1980 50  0000 C CNN
 F 1 "switch" H 2925 1889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2925 1725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2925 1725 60  0001 C CNN
 F 3 "" H 2925 1725 60  0000 C CNN
 	1    2925 1725
 	-1   0    0    1   
@@ -241,7 +241,7 @@ U 1 1 60BA28DF
 P 2925 2400
 F 0 "switch15" H 2925 2655 50  0000 C CNN
 F 1 "switch" H 2925 2564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2925 2400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2925 2400 60  0001 C CNN
 F 3 "" H 2925 2400 60  0000 C CNN
 	1    2925 2400
 	-1   0    0    1   
@@ -265,7 +265,7 @@ U 1 1 60BA28F5
 P 2925 3075
 F 0 "switch20" H 2925 3330 50  0000 C CNN
 F 1 "switch" H 2925 3239 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2925 3075 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2925 3075 60  0001 C CNN
 F 3 "" H 2925 3075 60  0000 C CNN
 	1    2925 3075
 	-1   0    0    1   
@@ -289,7 +289,7 @@ U 1 1 60BA290D
 P 3775 1050
 F 0 "switch4" H 3775 1305 50  0000 C CNN
 F 1 "switch" H 3775 1214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3775 1050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3775 1050 60  0001 C CNN
 F 3 "" H 3775 1050 60  0000 C CNN
 	1    3775 1050
 	-1   0    0    1   
@@ -313,7 +313,7 @@ U 1 1 60BA2923
 P 3775 1725
 F 0 "switch10" H 3775 1980 50  0000 C CNN
 F 1 "switch" H 3775 1889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3775 1725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3775 1725 60  0001 C CNN
 F 3 "" H 3775 1725 60  0000 C CNN
 	1    3775 1725
 	-1   0    0    1   
@@ -350,7 +350,7 @@ U 1 1 60BA2950
 P 3775 3075
 F 0 "switch21" H 3775 3330 50  0000 C CNN
 F 1 "switch" H 3775 3239 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3775 3075 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3775 3075 60  0001 C CNN
 F 3 "" H 3775 3075 60  0000 C CNN
 	1    3775 3075
 	-1   0    0    1   
@@ -382,7 +382,7 @@ U 1 1 60BB5E3A
 P 4625 1050
 F 0 "switch5" H 4625 1305 50  0000 C CNN
 F 1 "switch" H 4625 1214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4625 1050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4625 1050 60  0001 C CNN
 F 3 "" H 4625 1050 60  0000 C CNN
 	1    4625 1050
 	-1   0    0    1   
@@ -406,7 +406,7 @@ U 1 1 60BB609E
 P 4625 1725
 F 0 "switch11" H 4625 1980 50  0000 C CNN
 F 1 "switch" H 4625 1889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4625 1725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4625 1725 60  0001 C CNN
 F 3 "" H 4625 1725 60  0000 C CNN
 	1    4625 1725
 	-1   0    0    1   
@@ -430,7 +430,7 @@ U 1 1 60BB60B5
 P 4625 2400
 F 0 "switch17" H 4625 2655 50  0000 C CNN
 F 1 "switch" H 4625 2564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4625 2400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4625 2400 60  0001 C CNN
 F 3 "" H 4625 2400 60  0000 C CNN
 	1    4625 2400
 	-1   0    0    1   
@@ -454,7 +454,7 @@ U 1 1 60BB60CB
 P 4625 3075
 F 0 "switch22" H 4625 3330 50  0000 C CNN
 F 1 "switch" H 4625 3239 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4625 3075 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4625 3075 60  0001 C CNN
 F 3 "" H 4625 3075 60  0000 C CNN
 	1    4625 3075
 	-1   0    0    1   
@@ -478,7 +478,7 @@ U 1 1 60BB60E3
 P 5475 1050
 F 0 "switch6" H 5475 1305 50  0000 C CNN
 F 1 "switch" H 5475 1214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5475 1050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5475 1050 60  0001 C CNN
 F 3 "" H 5475 1050 60  0000 C CNN
 	1    5475 1050
 	-1   0    0    1   
@@ -502,7 +502,7 @@ U 1 1 60BB60F9
 P 5475 1725
 F 0 "switch12" H 5475 1980 50  0000 C CNN
 F 1 "switch" H 5475 1889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5475 1725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5475 1725 60  0001 C CNN
 F 3 "" H 5475 1725 60  0000 C CNN
 	1    5475 1725
 	-1   0    0    1   
@@ -526,7 +526,7 @@ U 1 1 60BB6110
 P 5475 2400
 F 0 "switch18" H 5475 2655 50  0000 C CNN
 F 1 "switch" H 5475 2564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5475 2400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5475 2400 60  0001 C CNN
 F 3 "" H 5475 2400 60  0000 C CNN
 	1    5475 2400
 	-1   0    0    1   
@@ -550,7 +550,7 @@ U 1 1 60BB6126
 P 5475 3075
 F 0 "switch23" H 5475 3330 50  0000 C CNN
 F 1 "switch" H 5475 3239 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5475 3075 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5475 3075 60  0001 C CNN
 F 3 "" H 5475 3075 60  0000 C CNN
 	1    5475 3075
 	-1   0    0    1   
@@ -615,7 +615,7 @@ U 1 1 60BB2EC2
 P 1650 4375
 F 0 "switch24" H 1650 4630 50  0000 C CNN
 F 1 "switch" H 1650 4539 50  0000 C CNN
-F 2 "footprints:100-minimal" H 1650 4375 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 1650 4375 60  0001 C CNN
 F 3 "" H 1650 4375 60  0000 C CNN
 	1    1650 4375
 	1    0    0    -1  
@@ -641,7 +641,7 @@ U 1 1 60BB2ED8
 P 1650 5050
 F 0 "switch30" H 1650 5305 50  0000 C CNN
 F 1 "switch" H 1650 5214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 1650 5050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 1650 5050 60  0001 C CNN
 F 3 "" H 1650 5050 60  0000 C CNN
 	1    1650 5050
 	1    0    0    -1  
@@ -668,7 +668,7 @@ U 1 1 60BB2EEF
 P 1650 5725
 F 0 "switch36" H 1650 5980 50  0000 C CNN
 F 1 "switch" H 1650 5889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 1650 5725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 1650 5725 60  0001 C CNN
 F 3 "" H 1650 5725 60  0000 C CNN
 	1    1650 5725
 	1    0    0    -1  
@@ -694,7 +694,7 @@ U 1 1 60BB2F05
 P 1650 6400
 F 0 "switch42" H 1650 6655 50  0000 C CNN
 F 1 "switch" H 1650 6564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 1650 6400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 1650 6400 60  0001 C CNN
 F 3 "" H 1650 6400 60  0000 C CNN
 	1    1650 6400
 	1    0    0    -1  
@@ -722,7 +722,7 @@ U 1 1 60BC4EC2
 P 2500 4375
 F 0 "switch25" H 2500 4630 50  0000 C CNN
 F 1 "switch" H 2500 4539 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2500 4375 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2500 4375 60  0001 C CNN
 F 3 "" H 2500 4375 60  0000 C CNN
 	1    2500 4375
 	1    0    0    -1  
@@ -748,7 +748,7 @@ U 1 1 60BC503A
 P 2500 5050
 F 0 "switch31" H 2500 5305 50  0000 C CNN
 F 1 "switch" H 2500 5214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2500 5050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2500 5050 60  0001 C CNN
 F 3 "" H 2500 5050 60  0000 C CNN
 	1    2500 5050
 	1    0    0    -1  
@@ -775,7 +775,7 @@ U 1 1 60BC5051
 P 2500 5725
 F 0 "switch37" H 2500 5980 50  0000 C CNN
 F 1 "switch" H 2500 5889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2500 5725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2500 5725 60  0001 C CNN
 F 3 "" H 2500 5725 60  0000 C CNN
 	1    2500 5725
 	1    0    0    -1  
@@ -801,7 +801,7 @@ U 1 1 60BC5067
 P 2500 6400
 F 0 "switch43" H 2500 6655 50  0000 C CNN
 F 1 "switch" H 2500 6564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 2500 6400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 2500 6400 60  0001 C CNN
 F 3 "" H 2500 6400 60  0000 C CNN
 	1    2500 6400
 	1    0    0    -1  
@@ -833,7 +833,7 @@ U 1 1 60BCAE9B
 P 3350 4375
 F 0 "switch26" H 3350 4630 50  0000 C CNN
 F 1 "switch" H 3350 4539 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3350 4375 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3350 4375 60  0001 C CNN
 F 3 "" H 3350 4375 60  0000 C CNN
 	1    3350 4375
 	1    0    0    -1  
@@ -859,7 +859,7 @@ U 1 1 60BCB025
 P 3350 5050
 F 0 "switch32" H 3350 5305 50  0000 C CNN
 F 1 "switch" H 3350 5214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3350 5050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3350 5050 60  0001 C CNN
 F 3 "" H 3350 5050 60  0000 C CNN
 	1    3350 5050
 	1    0    0    -1  
@@ -886,7 +886,7 @@ U 1 1 60BCB03C
 P 3350 5725
 F 0 "switch38" H 3350 5980 50  0000 C CNN
 F 1 "switch" H 3350 5889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3350 5725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3350 5725 60  0001 C CNN
 F 3 "" H 3350 5725 60  0000 C CNN
 	1    3350 5725
 	1    0    0    -1  
@@ -912,7 +912,7 @@ U 1 1 60BCB052
 P 3350 6400
 F 0 "switch44" H 3350 6655 50  0000 C CNN
 F 1 "switch" H 3350 6564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3350 6400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3350 6400 60  0001 C CNN
 F 3 "" H 3350 6400 60  0000 C CNN
 	1    3350 6400
 	1    0    0    -1  
@@ -940,7 +940,7 @@ U 1 1 60BCB06A
 P 4200 4375
 F 0 "switch27" H 4200 4630 50  0000 C CNN
 F 1 "switch" H 4200 4539 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4200 4375 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4200 4375 60  0001 C CNN
 F 3 "" H 4200 4375 60  0000 C CNN
 	1    4200 4375
 	1    0    0    -1  
@@ -966,7 +966,7 @@ U 1 1 60BCB080
 P 4200 5050
 F 0 "switch33" H 4200 5305 50  0000 C CNN
 F 1 "switch" H 4200 5214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4200 5050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4200 5050 60  0001 C CNN
 F 3 "" H 4200 5050 60  0000 C CNN
 	1    4200 5050
 	1    0    0    -1  
@@ -993,7 +993,7 @@ U 1 1 60BCB097
 P 4200 5725
 F 0 "switch39" H 4200 5980 50  0000 C CNN
 F 1 "switch" H 4200 5889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4200 5725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4200 5725 60  0001 C CNN
 F 3 "" H 4200 5725 60  0000 C CNN
 	1    4200 5725
 	1    0    0    -1  
@@ -1019,7 +1019,7 @@ U 1 1 60BCB0AD
 P 4200 6400
 F 0 "switch45" H 4200 6655 50  0000 C CNN
 F 1 "switch" H 4200 6564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 4200 6400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 4200 6400 60  0001 C CNN
 F 3 "" H 4200 6400 60  0000 C CNN
 	1    4200 6400
 	1    0    0    -1  
@@ -1055,7 +1055,7 @@ U 1 1 60BE396D
 P 5050 4375
 F 0 "switch28" H 5050 4630 50  0000 C CNN
 F 1 "switch" H 5050 4539 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5050 4375 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5050 4375 60  0001 C CNN
 F 3 "" H 5050 4375 60  0000 C CNN
 	1    5050 4375
 	1    0    0    -1  
@@ -1081,7 +1081,7 @@ U 1 1 60BE3983
 P 5050 5050
 F 0 "switch34" H 5050 5305 50  0000 C CNN
 F 1 "switch" H 5050 5214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5050 5050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5050 5050 60  0001 C CNN
 F 3 "" H 5050 5050 60  0000 C CNN
 	1    5050 5050
 	1    0    0    -1  
@@ -1108,7 +1108,7 @@ U 1 1 60BE399A
 P 5050 5725
 F 0 "switch40" H 5050 5980 50  0000 C CNN
 F 1 "switch" H 5050 5889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5050 5725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5050 5725 60  0001 C CNN
 F 3 "" H 5050 5725 60  0000 C CNN
 	1    5050 5725
 	1    0    0    -1  
@@ -1134,7 +1134,7 @@ U 1 1 60BE39B0
 P 5050 6400
 F 0 "switch46" H 5050 6655 50  0000 C CNN
 F 1 "switch" H 5050 6564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5050 6400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5050 6400 60  0001 C CNN
 F 3 "" H 5050 6400 60  0000 C CNN
 	1    5050 6400
 	1    0    0    -1  
@@ -1160,7 +1160,7 @@ U 1 1 60BE39C8
 P 5900 4375
 F 0 "switch29" H 5900 4630 50  0000 C CNN
 F 1 "switch" H 5900 4539 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5900 4375 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5900 4375 60  0001 C CNN
 F 3 "" H 5900 4375 60  0000 C CNN
 	1    5900 4375
 	1    0    0    -1  
@@ -1186,7 +1186,7 @@ U 1 1 60BE39DE
 P 5900 5050
 F 0 "switch35" H 5900 5305 50  0000 C CNN
 F 1 "switch" H 5900 5214 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5900 5050 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5900 5050 60  0001 C CNN
 F 3 "" H 5900 5050 60  0000 C CNN
 	1    5900 5050
 	1    0    0    -1  
@@ -1213,7 +1213,7 @@ U 1 1 60BE39F5
 P 5900 5725
 F 0 "switch41" H 5900 5980 50  0000 C CNN
 F 1 "switch" H 5900 5889 50  0000 C CNN
-F 2 "footprints:100-minimal" H 5900 5725 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 5900 5725 60  0001 C CNN
 F 3 "" H 5900 5725 60  0000 C CNN
 	1    5900 5725
 	1    0    0    -1  
@@ -1326,7 +1326,7 @@ U 1 1 60BA293A
 P 3775 2400
 F 0 "switch16" H 3775 2655 50  0000 C CNN
 F 1 "switch" H 3775 2564 50  0000 C CNN
-F 2 "footprints:100-minimal" H 3775 2400 60  0001 C CNN
+F 2 "rick-kicad-footprints:100-minimal-no-3d" H 3775 2400 60  0001 C CNN
 F 3 "" H 3775 2400 60  0000 C CNN
 	1    3775 2400
 	-1   0    0    1   
