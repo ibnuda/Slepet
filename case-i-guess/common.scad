@@ -56,9 +56,19 @@ shape_of_pcb()
     }
 }
 
-module switch_holes()
+module switch_holes_left()
 {
-    import("plate-left.dxf");
+    import("switch-and-connector-holes.dxf");
+}
+
+module switch_holes_right()
+{
+    import("plate-right.dxf");
+}
+
+module promicro_cutout()
+{
+    import("promicro-cutout.dxf");
 }
 
 tightening_screw_positions = [
